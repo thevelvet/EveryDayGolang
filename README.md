@@ -1,2 +1,2 @@
-# dailyGolang
-my Golang PlayGound
+# EveryDay Golang
+Golang Study
